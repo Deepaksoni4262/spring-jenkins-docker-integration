@@ -18,4 +18,5 @@ public class Application {
 	public String greet(){
 		return "hello user";
 	}
+
 }
